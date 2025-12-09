@@ -11,6 +11,6 @@ git push -u origin main
   + commit
 
   + 내 git 저장소의 커밋 내역을 github 저장소에 올리기
-    + ```bash
-    git push -u origin main
-    ```
+```bash
+git push -u origin main
+```
